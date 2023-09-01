@@ -1,0 +1,28 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 2em;
+	margin: 0 0 5em 0;
+}
+
+.user {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.user-content {
+	font-size: 0.8em;
+	margin: 1em;
+}
+
+.user-img {
+	border-radius: 50%;
+	width: 25%;
+}
+
+.user-btn {
+	font-size: 0.8em;
+	min-width: max-content;
+}
